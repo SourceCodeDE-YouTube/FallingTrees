@@ -1,0 +1,6 @@
+name: FallingTrees
+version: '1.0-SNAPSHOT'
+main: org.sourcecodede.fallingTrees.FallingTrees
+api-version: '1.20'
+authors: [ Raphael Martin ]
+description: Fallingtrees
