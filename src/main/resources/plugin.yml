@@ -1,0 +1,4 @@
+name: FallingTrees
+version: '${project.version}'
+main: org.sourcecodede.fallingtrees.FallingTrees
+api-version: '1.20'
